@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/faceschool/static/css/main.56e6054f.css",
-    "main.js": "/faceschool/static/js/main.1db9ea9f.js",
+    "main.js": "/faceschool/static/js/main.912c941a.js",
     "static/js/787.d55afb80.chunk.js": "/faceschool/static/js/787.d55afb80.chunk.js",
     "static/media/transparent-student-icon-blog-logo-school-5eab0201b5f501.png": "/faceschool/static/media/transparent-student-icon-blog-logo-school-5eab0201b5f501.3688803115882654737453.6a23658d51360227a1c1.png",
     "static/media/roboto-all-500-normal.woff": "/faceschool/static/media/roboto-all-500-normal.0ab669b7a0d19b178f57.woff",
@@ -17,6 +17,7 @@
     "static/media/roboto-cyrillic-ext-300-normal.woff2": "/faceschool/static/media/roboto-cyrillic-ext-300-normal.4777461b144e55145268.woff2",
     "static/media/roboto-cyrillic-ext-500-normal.woff2": "/faceschool/static/media/roboto-cyrillic-ext-500-normal.62ced72e5832f02c2796.woff2",
     "static/media/roboto-cyrillic-ext-700-normal.woff2": "/faceschool/static/media/roboto-cyrillic-ext-700-normal.be4d02458ce53887dc37.woff2",
+    "static/media/43629498___n.jpg": "/faceschool/static/media/43629498_1678098508968761_4966370374850707456_n.281345a56415c159d425.jpg",
     "static/media/descarga.jpeg": "/faceschool/static/media/descarga.16e39e434a7b52e7d03d.jpeg",
     "static/media/roboto-latin-ext-400-normal.woff2": "/faceschool/static/media/roboto-latin-ext-400-normal.861b791f9de857a6e7bc.woff2",
     "static/media/roboto-latin-ext-700-normal.woff2": "/faceschool/static/media/roboto-latin-ext-700-normal.ed67ad54b1a8f5d21150.woff2",
@@ -40,11 +41,11 @@
     "static/media/roboto-greek-ext-700-normal.woff2": "/faceschool/static/media/roboto-greek-ext-700-normal.bd9854c751441ccc1a70.woff2",
     "index.html": "/faceschool/index.html",
     "main.56e6054f.css.map": "/faceschool/static/css/main.56e6054f.css.map",
-    "main.1db9ea9f.js.map": "/faceschool/static/js/main.1db9ea9f.js.map",
+    "main.912c941a.js.map": "/faceschool/static/js/main.912c941a.js.map",
     "787.d55afb80.chunk.js.map": "/faceschool/static/js/787.d55afb80.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.56e6054f.css",
-    "static/js/main.1db9ea9f.js"
+    "static/js/main.912c941a.js"
   ]
 }
