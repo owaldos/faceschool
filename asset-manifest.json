@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/faceschool/static/css/main.56e6054f.css",
-    "main.js": "/faceschool/static/js/main.0add17ae.js",
+    "main.js": "/faceschool/static/js/main.bba8dd2c.js",
     "static/js/787.d55afb80.chunk.js": "/faceschool/static/js/787.d55afb80.chunk.js",
     "static/media/transparent-student-icon-blog-logo-school-5eab0201b5f501.png": "/faceschool/static/media/transparent-student-icon-blog-logo-school-5eab0201b5f501.3688803115882654737453.6a23658d51360227a1c1.png",
     "static/media/roboto-all-500-normal.woff": "/faceschool/static/media/roboto-all-500-normal.0ab669b7a0d19b178f57.woff",
@@ -9,6 +9,7 @@
     "static/media/roboto-all-400-normal.woff": "/faceschool/static/media/roboto-all-400-normal.c5d001fa922fa66a147f.woff",
     "static/media/roboto-all-300-normal.woff": "/faceschool/static/media/roboto-all-300-normal.168d6383e73339293ac3.woff",
     "static/media/valentina.jpeg": "/faceschool/static/media/valentina.780838a1161e89cf1a62.jpeg",
+    "static/media/119976556_121520916358929__n.jpg": "/faceschool/static/media/119976556_121520916358929_6799021330331753240_n.2ad7eeb82bb8d76ecfdd.jpg",
     "static/media/roboto-latin-500-normal.woff2": "/faceschool/static/media/roboto-latin-500-normal.f25d774ecfe0996f8eb5.woff2",
     "static/media/roboto-latin-700-normal.woff2": "/faceschool/static/media/roboto-latin-700-normal.227c93190fe7f82de3f8.woff2",
     "static/media/roboto-latin-400-normal.woff2": "/faceschool/static/media/roboto-latin-400-normal.b009a76ad6afe4ebd301.woff2",
@@ -41,11 +42,11 @@
     "static/media/roboto-greek-ext-700-normal.woff2": "/faceschool/static/media/roboto-greek-ext-700-normal.bd9854c751441ccc1a70.woff2",
     "index.html": "/faceschool/index.html",
     "main.56e6054f.css.map": "/faceschool/static/css/main.56e6054f.css.map",
-    "main.0add17ae.js.map": "/faceschool/static/js/main.0add17ae.js.map",
+    "main.bba8dd2c.js.map": "/faceschool/static/js/main.bba8dd2c.js.map",
     "787.d55afb80.chunk.js.map": "/faceschool/static/js/787.d55afb80.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.56e6054f.css",
-    "static/js/main.0add17ae.js"
+    "static/js/main.bba8dd2c.js"
   ]
 }
