@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/faceschool/static/css/main.ab9e1e0c.css",
-    "main.js": "/faceschool/static/js/main.0f030b38.js",
+    "main.js": "/faceschool/static/js/main.b0f710d0.js",
     "static/js/787.d55afb80.chunk.js": "/faceschool/static/js/787.d55afb80.chunk.js",
     "static/media/Captura de pantalla de 2022-03-08 10-24-30.png": "/faceschool/static/media/Captura de pantalla de 2022-03-08 10-24-30.fa32a043e71b93b0034c.png",
     "static/media/transparent-student-icon-blog-logo-school-5eab0201b5f501.png": "/faceschool/static/media/transparent-student-icon-blog-logo-school-5eab0201b5f501.3688803115882654737453.6a23658d51360227a1c1.png",
@@ -42,11 +42,11 @@
     "static/media/roboto-greek-ext-700-normal.woff2": "/faceschool/static/media/roboto-greek-ext-700-normal.bd9854c751441ccc1a70.woff2",
     "index.html": "/faceschool/index.html",
     "main.ab9e1e0c.css.map": "/faceschool/static/css/main.ab9e1e0c.css.map",
-    "main.0f030b38.js.map": "/faceschool/static/js/main.0f030b38.js.map",
+    "main.b0f710d0.js.map": "/faceschool/static/js/main.b0f710d0.js.map",
     "787.d55afb80.chunk.js.map": "/faceschool/static/js/787.d55afb80.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ab9e1e0c.css",
-    "static/js/main.0f030b38.js"
+    "static/js/main.b0f710d0.js"
   ]
 }
