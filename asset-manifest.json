@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/faceschool/static/css/main.a416da04.css",
-    "main.js": "/faceschool/static/js/main.40f70b20.js",
+    "main.js": "/faceschool/static/js/main.efeae835.js",
     "static/js/787.d55afb80.chunk.js": "/faceschool/static/js/787.d55afb80.chunk.js",
     "static/media/y2mate.com - Escuela Sabática LIKE  Lección 7  Adoren al Creador_1080p.mp4": "/faceschool/static/media/y2mate.com - Escuela Sabática LIKE  Lección 7  Adoren al Creador_1080p.ff7d80856efb2619d7f7.mp4",
     "static/media/y2mate.com - JESÚS EN MI CIUDAD 20_360p.mp4": "/faceschool/static/media/y2mate.com - JESÚS EN MI CIUDAD 20_360p.a3342a4947e0e0470fa9.mp4",
@@ -48,11 +48,11 @@
     "static/media/roboto-greek-ext-700-normal.woff2": "/faceschool/static/media/roboto-greek-ext-700-normal.bd9854c751441ccc1a70.woff2",
     "index.html": "/faceschool/index.html",
     "main.a416da04.css.map": "/faceschool/static/css/main.a416da04.css.map",
-    "main.40f70b20.js.map": "/faceschool/static/js/main.40f70b20.js.map",
+    "main.efeae835.js.map": "/faceschool/static/js/main.efeae835.js.map",
     "787.d55afb80.chunk.js.map": "/faceschool/static/js/787.d55afb80.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a416da04.css",
-    "static/js/main.40f70b20.js"
+    "static/js/main.efeae835.js"
   ]
 }
