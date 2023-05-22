@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/faceschool/static/css/main.a416da04.css",
-    "main.js": "/faceschool/static/js/main.fd257a1f.js",
+    "main.js": "/faceschool/static/js/main.8a37cf7a.js",
     "static/js/787.d55afb80.chunk.js": "/faceschool/static/js/787.d55afb80.chunk.js",
     "static/media/y2mate.com - Escuela Sabática LIKE  Lección 7  Adoren al Creador_1080p.mp4": "/faceschool/static/media/y2mate.com - Escuela Sabática LIKE  Lección 7  Adoren al Creador_1080p.ff7d80856efb2619d7f7.mp4",
     "static/media/y2mate.com - JESÚS EN MI CIUDAD 20_360p.mp4": "/faceschool/static/media/y2mate.com - JESÚS EN MI CIUDAD 20_360p.a3342a4947e0e0470fa9.mp4",
@@ -12,6 +12,7 @@
     "static/media/roboto-all-700-normal.woff": "/faceschool/static/media/roboto-all-700-normal.a457fde362a540fcadff.woff",
     "static/media/roboto-all-400-normal.woff": "/faceschool/static/media/roboto-all-400-normal.c5d001fa922fa66a147f.woff",
     "static/media/roboto-all-300-normal.woff": "/faceschool/static/media/roboto-all-300-normal.168d6383e73339293ac3.woff",
+    "service-worker.js": "/faceschool/service-worker.js",
     "static/media/2021-07-11-212717.jpg": "/faceschool/static/media/2021-07-11-212717.303c4c57764787b3f921.jpg",
     "static/media/2022-03-22-111021.jpg": "/faceschool/static/media/2022-03-22-111021.bd4b2ac233a4dbaa6f54.jpg",
     "static/media/valentina.jpeg": "/faceschool/static/media/valentina.780838a1161e89cf1a62.jpeg",
@@ -48,11 +49,11 @@
     "static/media/roboto-greek-ext-700-normal.woff2": "/faceschool/static/media/roboto-greek-ext-700-normal.bd9854c751441ccc1a70.woff2",
     "index.html": "/faceschool/index.html",
     "main.a416da04.css.map": "/faceschool/static/css/main.a416da04.css.map",
-    "main.fd257a1f.js.map": "/faceschool/static/js/main.fd257a1f.js.map",
+    "main.8a37cf7a.js.map": "/faceschool/static/js/main.8a37cf7a.js.map",
     "787.d55afb80.chunk.js.map": "/faceschool/static/js/787.d55afb80.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a416da04.css",
-    "static/js/main.fd257a1f.js"
+    "static/js/main.8a37cf7a.js"
   ]
 }
