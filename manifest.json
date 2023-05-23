@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Faceschool",
+  "name": "Faceschool",
   "categories": ["lifestyle","music"],
   "description": "App para escuelas",
   "dir":"ltr",
