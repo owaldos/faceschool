@@ -27,7 +27,7 @@
   "orientation":"portrait",
   "prefer_related_application":false,
   "scope":"/",
-  "start_url": ".",
+  "start_url": "/",
   "theme_color": "#000000",
   "background_color": "#ffffff"
   
