@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/faceschool/static/css/main.c622e5b3.css",
-    "main.js": "/faceschool/static/js/main.165c49ba.js",
+    "main.js": "/faceschool/static/js/main.28ec7dac.js",
     "static/js/787.d55afb80.chunk.js": "/faceschool/static/js/787.d55afb80.chunk.js",
+    "static/media/VID_20230531_085018.mp4": "/faceschool/static/media/VID_20230531_085018.d84e2314d639d61a2291.mp4",
     "static/media/compress3.mp4": "/faceschool/static/media/compress3.8a80b54e80af854d546d.mp4",
     "static/media/Captura de pantalla de 2022-03-08 10-24-30.png": "/faceschool/static/media/Captura de pantalla de 2022-03-08 10-24-30.fa32a043e71b93b0034c.png",
     "static/media/Foto de Oswaldo (1).jpg": "/faceschool/static/media/Foto de Oswaldo (1).ebd3ad699cc65f53a626.jpg",
@@ -48,11 +49,11 @@
     "static/media/roboto-greek-ext-700-normal.woff2": "/faceschool/static/media/roboto-greek-ext-700-normal.bd9854c751441ccc1a70.woff2",
     "index.html": "/faceschool/index.html",
     "main.c622e5b3.css.map": "/faceschool/static/css/main.c622e5b3.css.map",
-    "main.165c49ba.js.map": "/faceschool/static/js/main.165c49ba.js.map",
+    "main.28ec7dac.js.map": "/faceschool/static/js/main.28ec7dac.js.map",
     "787.d55afb80.chunk.js.map": "/faceschool/static/js/787.d55afb80.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c622e5b3.css",
-    "static/js/main.165c49ba.js"
+    "static/js/main.28ec7dac.js"
   ]
 }
