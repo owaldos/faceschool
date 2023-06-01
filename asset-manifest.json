@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/faceschool/static/css/main.c622e5b3.css",
-    "main.js": "/faceschool/static/js/main.eee1ea42.js",
+    "main.js": "/faceschool/static/js/main.56b2b8c2.js",
     "static/js/787.d55afb80.chunk.js": "/faceschool/static/js/787.d55afb80.chunk.js",
     "static/media/y2mate.com - DISCURSO DIRECTOR PARA BIENVENIDA INICIO DE CLASES 2021_v240P.mp4": "/faceschool/static/media/y2mate.com - DISCURSO DIRECTOR PARA BIENVENIDA INICIO DE CLASES 2021_v240P.8ef7de82dec4e0a4def0.mp4",
     "static/media/1685557836200.jpg": "/faceschool/static/media/1685557836200.cf07592d4baf1894c467.jpg",
@@ -55,11 +55,11 @@
     "static/media/roboto-greek-ext-700-normal.woff2": "/faceschool/static/media/roboto-greek-ext-700-normal.bd9854c751441ccc1a70.woff2",
     "index.html": "/faceschool/index.html",
     "main.c622e5b3.css.map": "/faceschool/static/css/main.c622e5b3.css.map",
-    "main.eee1ea42.js.map": "/faceschool/static/js/main.eee1ea42.js.map",
+    "main.56b2b8c2.js.map": "/faceschool/static/js/main.56b2b8c2.js.map",
     "787.d55afb80.chunk.js.map": "/faceschool/static/js/787.d55afb80.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c622e5b3.css",
-    "static/js/main.eee1ea42.js"
+    "static/js/main.56b2b8c2.js"
   ]
 }
