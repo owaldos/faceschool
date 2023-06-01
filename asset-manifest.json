@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/faceschool/static/css/main.c622e5b3.css",
-    "main.js": "/faceschool/static/js/main.41af22cb.js",
+    "main.js": "/faceschool/static/js/main.7cc33d28.js",
     "static/js/787.d55afb80.chunk.js": "/faceschool/static/js/787.d55afb80.chunk.js",
     "static/media/y2mate.com - DISCURSO DIRECTOR PARA BIENVENIDA INICIO DE CLASES 2021_v240P.mp4": "/faceschool/static/media/y2mate.com - DISCURSO DIRECTOR PARA BIENVENIDA INICIO DE CLASES 2021_v240P.8ef7de82dec4e0a4def0.mp4",
     "static/media/1685557836200.jpg": "/faceschool/static/media/1685557836200.cf07592d4baf1894c467.jpg",
@@ -22,6 +22,7 @@
     "static/media/valentina.jpeg": "/faceschool/static/media/valentina.780838a1161e89cf1a62.jpeg",
     "static/media/2022-03-22-120958.jpg": "/faceschool/static/media/2022-03-22-120958.7f85146416dbbdabac97.jpg",
     "static/media/119976556_121520916358929__n.jpg": "/faceschool/static/media/119976556_121520916358929_6799021330331753240_n.2ad7eeb82bb8d76ecfdd.jpg",
+    "static/media/sin foto.jpg": "/faceschool/static/media/sin foto.5aa103344db5adeed15d.jpg",
     "static/media/roboto-latin-500-normal.woff2": "/faceschool/static/media/roboto-latin-500-normal.f25d774ecfe0996f8eb5.woff2",
     "static/media/roboto-latin-700-normal.woff2": "/faceschool/static/media/roboto-latin-700-normal.227c93190fe7f82de3f8.woff2",
     "static/media/roboto-latin-400-normal.woff2": "/faceschool/static/media/roboto-latin-400-normal.b009a76ad6afe4ebd301.woff2",
@@ -35,6 +36,7 @@
     "static/media/roboto-latin-ext-700-normal.woff2": "/faceschool/static/media/roboto-latin-ext-700-normal.ed67ad54b1a8f5d21150.woff2",
     "static/media/roboto-latin-ext-500-normal.woff2": "/faceschool/static/media/roboto-latin-ext-500-normal.9165081d10e1ba601384.woff2",
     "static/media/roboto-latin-ext-300-normal.woff2": "/faceschool/static/media/roboto-latin-ext-300-normal.dc7dcec8e3f654e0ed63.woff2",
+    "static/media/falta imagen.png": "/faceschool/static/media/falta imagen.3c07700299456417df3e.png",
     "static/media/roboto-cyrillic-500-normal.woff2": "/faceschool/static/media/roboto-cyrillic-500-normal.cad7d3d9cb265e334e58.woff2",
     "static/media/roboto-cyrillic-700-normal.woff2": "/faceschool/static/media/roboto-cyrillic-700-normal.d010f1f324e111a22e53.woff2",
     "static/media/roboto-cyrillic-400-normal.woff2": "/faceschool/static/media/roboto-cyrillic-400-normal.71a33b6b50457b2c903a.woff2",
@@ -53,11 +55,11 @@
     "static/media/roboto-greek-ext-700-normal.woff2": "/faceschool/static/media/roboto-greek-ext-700-normal.bd9854c751441ccc1a70.woff2",
     "index.html": "/faceschool/index.html",
     "main.c622e5b3.css.map": "/faceschool/static/css/main.c622e5b3.css.map",
-    "main.41af22cb.js.map": "/faceschool/static/js/main.41af22cb.js.map",
+    "main.7cc33d28.js.map": "/faceschool/static/js/main.7cc33d28.js.map",
     "787.d55afb80.chunk.js.map": "/faceschool/static/js/787.d55afb80.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c622e5b3.css",
-    "static/js/main.41af22cb.js"
+    "static/js/main.7cc33d28.js"
   ]
 }
