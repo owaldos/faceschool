@@ -1,23 +1,25 @@
 {
   "files": {
     "main.css": "/faceschool/static/css/main.c622e5b3.css",
-    "main.js": "/faceschool/static/js/main.a9541347.js",
+    "main.js": "/faceschool/static/js/main.4bc5b9bf.js",
     "static/js/787.d55afb80.chunk.js": "/faceschool/static/js/787.d55afb80.chunk.js",
+    "static/media/propuesta.mp4": "/faceschool/static/media/propuesta.df6072bc18c444d1546c.mp4",
     "static/media/VID-20230531-WA0009.mp4": "/faceschool/static/media/VID-20230531-WA0009.1b7dc431c163cc0cbe69.mp4",
     "static/media/1685557836200.jpg": "/faceschool/static/media/1685557836200.cf07592d4baf1894c467.jpg",
     "static/media/1685557836179.jpg": "/faceschool/static/media/1685557836179.7b5d11a2993964d38002.jpg",
-    "static/media/compress3.mp4": "/faceschool/static/media/compress3.8a80b54e80af854d546d.mp4",
+    "static/media/inicial.png": "/faceschool/static/media/inicial.a7941ba914e905cd175b.png",
     "static/media/compress43.mp4": "/faceschool/static/media/compress43.bb8a60a2e78e6a47daa3.mp4",
     "static/media/compres42.mp4": "/faceschool/static/media/compres42.41295085a9e18f3f3843.mp4",
-    "static/media/Captura de pantalla de 2022-03-08 10-24-30.png": "/faceschool/static/media/Captura de pantalla de 2022-03-08 10-24-30.fa32a043e71b93b0034c.png",
-    "static/media/Foto de Oswaldo (1).jpg": "/faceschool/static/media/Foto de Oswaldo (1).ebd3ad699cc65f53a626.jpg",
+    "static/media/Captura desde 2023-06-11 13-12-59.png": "/faceschool/static/media/Captura desde 2023-06-11 13-12-59.79b386e2be15eb162fec.png",
     "static/media/transparent-student-icon-blog-logo-school-5eab0201b5f501.png": "/faceschool/static/media/transparent-student-icon-blog-logo-school-5eab0201b5f501.3688803115882654737453.6a23658d51360227a1c1.png",
+    "static/media/WhatsApp Image 2023-06-11 at 2.11.28 PM.jpeg": "/faceschool/static/media/WhatsApp Image 2023-06-11 at 2.11.28 PM.ed01aa94561325101b81.jpeg",
     "static/media/roboto-all-500-normal.woff": "/faceschool/static/media/roboto-all-500-normal.0ab669b7a0d19b178f57.woff",
     "static/media/roboto-all-700-normal.woff": "/faceschool/static/media/roboto-all-700-normal.a457fde362a540fcadff.woff",
     "static/media/roboto-all-400-normal.woff": "/faceschool/static/media/roboto-all-400-normal.c5d001fa922fa66a147f.woff",
     "static/media/roboto-all-300-normal.woff": "/faceschool/static/media/roboto-all-300-normal.168d6383e73339293ac3.woff",
     "service-worker.js": "/faceschool/service-worker.js",
     "static/media/2021-07-11-212717.jpg": "/faceschool/static/media/2021-07-11-212717.303c4c57764787b3f921.jpg",
+    "static/media/h_react.jpg": "/faceschool/static/media/h_react.eb78461394af9626aa4d.jpg",
     "static/media/2022-03-22-111021.jpg": "/faceschool/static/media/2022-03-22-111021.bd4b2ac233a4dbaa6f54.jpg",
     "static/media/valentina.jpeg": "/faceschool/static/media/valentina.780838a1161e89cf1a62.jpeg",
     "static/media/2022-03-22-120958.jpg": "/faceschool/static/media/2022-03-22-120958.7f85146416dbbdabac97.jpg",
@@ -55,11 +57,11 @@
     "static/media/roboto-greek-ext-700-normal.woff2": "/faceschool/static/media/roboto-greek-ext-700-normal.bd9854c751441ccc1a70.woff2",
     "index.html": "/faceschool/index.html",
     "main.c622e5b3.css.map": "/faceschool/static/css/main.c622e5b3.css.map",
-    "main.a9541347.js.map": "/faceschool/static/js/main.a9541347.js.map",
+    "main.4bc5b9bf.js.map": "/faceschool/static/js/main.4bc5b9bf.js.map",
     "787.d55afb80.chunk.js.map": "/faceschool/static/js/787.d55afb80.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c622e5b3.css",
-    "static/js/main.a9541347.js"
+    "static/js/main.4bc5b9bf.js"
   ]
 }
