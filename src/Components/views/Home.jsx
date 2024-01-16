@@ -5,8 +5,9 @@ import { Box} from '@mui/material';
 import MiCard from '../MiCard';
 
 import ResponsiveAppBar from '../ResponsiveAppBar';
-import EtiquetaComentarios from '../EtiquetaComentarios';
 
+import Slider from '../Slider';
+import segundafotoslider from '../../images/11.png'
 
 
 
@@ -32,11 +33,12 @@ function Home() {
 
     <Box sx={{ justifyContent:'center'}}>
 
+      <Slider  images={['inicial.png','publicidad.png']} buttons={false} intervalImg={5000} autoPlay={true}/>
+      <img src={segundafotoslider } style={{maxWidth:'720px',width:'100%',maxHeight:'400px',objectFit:'fill',height:"180px", padding:'10px'}}/>
+
       {store.escuela[0].publicaciones.map((publicacion, index)=>(
         
-        <MiCard key={index} datos={publicacion} index={index}/>
-        
-         
+        <MiCard key={index} datos={publicacion} index={index}/> 
 
       ))}
       

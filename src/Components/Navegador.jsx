@@ -8,8 +8,8 @@ import MenuIcon from '@mui/icons-material/Menu';
 import LocalLibrary from '@mui/icons-material/LocalLibrary';
 import { NavLink} from 'react-router-dom';
 import './../App.css'
-
-
+import ChurchIcon from '@mui/icons-material/Church';
+import SchoolIcon from '@mui/icons-material/School';
 
 
 
@@ -55,10 +55,10 @@ function Navegador() {
                 ? "pending"
                 : ""
                 }>
-            <Tooltip title="Personal Docente">
+            <Tooltip title="Portal IUNAV">
                 <IconButton color='secondary'>
                 
-                <SwitchAccountIcon />
+                <SchoolIcon />
                 </IconButton >
             </Tooltip>    
             </NavLink>
@@ -77,9 +77,9 @@ function Navegador() {
             : ""
         }
             >
-            <Tooltip title="Mi grado">
+            <Tooltip title="Iglesia Universitaria">
                 <IconButton  color='secondary'>
-                <LocalLibrary />
+                <ChurchIcon />
                 </IconButton>
             </Tooltip>
             </NavLink>
@@ -94,7 +94,7 @@ function Navegador() {
             className={({ isActive }) =>
                 isActive ? "active":''
             }>
-            <Tooltip title="Notificaciones">
+            <Tooltip title="IUNAV INFORMA">
 
                 <IconButton color='secondary'>
                 <Badge

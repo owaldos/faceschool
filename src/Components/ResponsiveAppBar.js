@@ -3,7 +3,7 @@ import { Context } from '../store/appContext';
 
 
 import { Grid, Box,Container, Typography,Toolbar, AppBar, Divider} from '@mui/material';
-import logo from '../images/transparent-student-icon-blog-logo-school-5eab0201b5f501.3688803115882654737453.png'
+import logo from '../images/IUNAV.jpeg'
 import useScrollTrigger from '@mui/material/useScrollTrigger';
 import Slide from '@mui/material/Slide';
 import { useNavigate } from 'react-router-dom';
@@ -61,8 +61,8 @@ function ResponsiveAppBar(props) {
                   alignItems="center"  
                   >
 
-                  <Box  ml={1}>
-                    <img src= {logo} alt="logo" width="30px" height="30px" />
+                  <Box  ml={3}>
+                    <img src= {logo} alt="logo" width="35px" height="35px"  />
                   </Box>
 
                 
@@ -88,7 +88,8 @@ function ResponsiveAppBar(props) {
                   xs={3}  
                   justifyContent="flex-end"
                   alignItems="center" 
-                  paddingRight={2}
+                  paddingRight={3}
+                  
                 >  
                   <MiAvatar  foto={store.usuario[0].img} />
                 </Grid>
@@ -103,10 +104,10 @@ function ResponsiveAppBar(props) {
        
 
         </AppBar>
-       <Divider/>
+     
       </Container>
     </HideOnScroll>
-     <Box sx={{paddingY:6}}></Box>
+     <Box sx={{paddingY:5}}></Box>
        
   </>
   );
