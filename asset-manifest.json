@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/faceschool/static/css/main.c622e5b3.css",
-    "main.js": "/faceschool/static/js/main.a126d17a.js",
+    "main.js": "/faceschool/static/js/main.560a07e1.js",
     "static/js/787.d55afb80.chunk.js": "/faceschool/static/js/787.d55afb80.chunk.js",
     "static/media/propuesta.mp4": "/faceschool/static/media/propuesta.df6072bc18c444d1546c.mp4",
     "static/media/VID-20230531-WA0009.mp4": "/faceschool/static/media/VID-20230531-WA0009.1b7dc431c163cc0cbe69.mp4",
@@ -65,11 +65,11 @@
     "static/media/roboto-greek-ext-700-normal.woff2": "/faceschool/static/media/roboto-greek-ext-700-normal.bd9854c751441ccc1a70.woff2",
     "index.html": "/faceschool/index.html",
     "main.c622e5b3.css.map": "/faceschool/static/css/main.c622e5b3.css.map",
-    "main.a126d17a.js.map": "/faceschool/static/js/main.a126d17a.js.map",
+    "main.560a07e1.js.map": "/faceschool/static/js/main.560a07e1.js.map",
     "787.d55afb80.chunk.js.map": "/faceschool/static/js/787.d55afb80.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c622e5b3.css",
-    "static/js/main.a126d17a.js"
+    "static/js/main.560a07e1.js"
   ]
 }
