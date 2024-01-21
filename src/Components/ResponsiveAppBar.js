@@ -107,7 +107,7 @@ function ResponsiveAppBar(props) {
      
       </Container>
     </HideOnScroll>
-     <Box sx={{paddingY:5}}></Box>
+     <Box sx={{paddingY:6}}></Box>
        
   </>
   );

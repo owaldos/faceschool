@@ -5,7 +5,7 @@ const MySlider = styled.img`
 max-width:720px;
 width:100%;
 max-height:400px;
-object-fit:fill;
+object-fit:cover;
  height:180px;
 opacity:0;
 transition: 1s;

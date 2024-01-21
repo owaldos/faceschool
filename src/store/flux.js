@@ -1,7 +1,7 @@
 import valentina from '../images/valentina.jpeg'
 import oswaldo from '../images/119976556_121520916358929_6799021330331753240_n.jpg'
 import f1 from '../images/2.jpeg'
-import f2 from '../images/Captura desde 2023-06-11 13-12-59.png'
+import f2 from '../images/campusvirtual.png'
 import f3 from '../images/WhatsApp Image 2023-06-11 at 2.11.28 PM.jpeg'
 import f4 from '../images/diego.png'
 import f5 from '../images/2021-07-11-212717.jpg'
