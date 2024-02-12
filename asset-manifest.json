@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/faceschool/static/css/main.c622e5b3.css",
-    "main.js": "/faceschool/static/js/main.63da268c.js",
+    "main.js": "/faceschool/static/js/main.b355958d.js",
     "static/js/787.d55afb80.chunk.js": "/faceschool/static/js/787.d55afb80.chunk.js",
     "static/media/propuesta.mp4": "/faceschool/static/media/propuesta.df6072bc18c444d1546c.mp4",
     "static/media/VID-20230531-WA0009.mp4": "/faceschool/static/media/VID-20230531-WA0009.1b7dc431c163cc0cbe69.mp4",
@@ -15,6 +15,7 @@
     "static/media/admision semestres.jpg": "/faceschool/static/media/admision semestres.80682c3299e2d0afbeca.jpg",
     "static/media/Foto de Oswaldo (1).jpg": "/faceschool/static/media/Foto de Oswaldo (1).ebd3ad699cc65f53a626.jpg",
     "static/media/campusvirtual.png": "/faceschool/static/media/campusvirtual.55806e070a4358329833.png",
+    "static/media/musical.jpg": "/faceschool/static/media/musical.6a7e803682eeb54e957a.jpg",
     "static/media/publicidad.png": "/faceschool/static/media/publicidad.483563b0940980b69f2e.png",
     "static/media/postulate.jpg": "/faceschool/static/media/postulate.5f6b8ed5dd1a977910aa.jpg",
     "static/media/transparent-student-icon-blog-logo-school-5eab0201b5f501.png": "/faceschool/static/media/transparent-student-icon-blog-logo-school-5eab0201b5f501.3688803115882654737453.6a23658d51360227a1c1.png",
@@ -67,11 +68,11 @@
     "static/media/roboto-greek-ext-700-normal.woff2": "/faceschool/static/media/roboto-greek-ext-700-normal.bd9854c751441ccc1a70.woff2",
     "index.html": "/faceschool/index.html",
     "main.c622e5b3.css.map": "/faceschool/static/css/main.c622e5b3.css.map",
-    "main.63da268c.js.map": "/faceschool/static/js/main.63da268c.js.map",
+    "main.b355958d.js.map": "/faceschool/static/js/main.b355958d.js.map",
     "787.d55afb80.chunk.js.map": "/faceschool/static/js/787.d55afb80.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c622e5b3.css",
-    "static/js/main.63da268c.js"
+    "static/js/main.b355958d.js"
   ]
 }
